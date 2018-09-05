@@ -1,8 +1,8 @@
 package com.ramotion.cardslider.examples.simple.cards;
 
 import android.graphics.Bitmap;
-import android.support.annotation.DrawableRes;
-import android.support.v7.widget.RecyclerView;
+import androidx.annotation.DrawableRes;
+import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewTreeObserver;
 import android.widget.ImageView;
